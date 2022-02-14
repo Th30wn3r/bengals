@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6d6cef2658097e8e3f9c77e68e13aecf0089cf17",
+  "SCAN_LINK": "https://bscscan.com/address/0x6d6cef2658097e8e3f9c77e68e13aecf0089cf17",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Bengals",
+  "SYMBOL": "BNGL",
+  "MAX_SUPPLY": 1011,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 290000,
+  "MARKETPLACE": "tofunft",
+  "MARKETPLACE_LINK": "https://tofunft.com",
+  "SHOW_BACKGROUND": true
+}
